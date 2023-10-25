@@ -24,6 +24,11 @@
 ## Menghitung Luas dan Keliling Lingkaran
 ![Screenshot 2023-10-25 215031](https://github.com/Pynixz/praktikum3/assets/147568964/b922cecd-2493-487e-a165-6d9893cd58a6)
 
+## FLowchart lingkaran
+![Screenshot 2023-10-25 220521](https://github.com/Pynixz/praktikum3/assets/147568964/08400783-2d9e-4ccf-bf40-cc6d08050124)
+-bukti file juga ada yang berupa .docx
+
+
 ## command 
  - git add dapat digunakan secara spesifik untuk file tertentu atau direktori, memberikan Anda fleksibilitas untuk memilih perubahan mana yang akan dimasukkan dalam staging 
   area.
