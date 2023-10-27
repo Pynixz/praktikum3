@@ -33,7 +33,7 @@
 ## command 
  - git add dapat digunakan secara spesifik untuk file tertentu atau direktori, memberikan Anda fleksibilitas untuk memilih perubahan mana yang akan dimasukkan dalam staging 
   area.
- - git commit -m “hi” Untuk menyimpan perubahan yang ada kedalam database repository local
+ - git commit -m "second commit" Untuk menyimpan perubahan yang ada kedalam database repository local
  - git remote add origin https://github.com/Pynixz/praktikum3.git Remote Repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan pada 
    local repository, sehingga dapat diakses oleh banyak user.
  - git push -u origin master/main Untuk mengirim perubahan pada local repository ke server gunakan perintah git push.
